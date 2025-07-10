@@ -8,7 +8,7 @@ Atualmente estou cursando Tecnologia em Jogos Digitais pela PUC Minas.
 
 # Projetos 
 ## Primeiro Período
-<img src="https://drive.google.com/uc?export=view&id=1yNfwvGbFAR6RvviS4yXDzrRiATEXdzse" alt="Imagem" width="400"/>
+<img src="https://drive.google.com/uc?export=view&id=1SgRFo2BiGtwrL61jvAuJ7L50aPK8XAqX" alt="Imagem" width="400"/>
 
 
 Batalhas frenéticas no melhor estilo de sobrevivência e luta contra o tempo: Rochito será capaz de aniquilar todos os inimigos dentro das arenas e resgatar as plantas sequestradas? Ou ele perecerá durante sua jornada devido às fortes investidas dos tenebrosos slimes?
