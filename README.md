@@ -22,10 +22,3 @@ Pincha é o saudoso "jogo das tampinhas", um game que nos remete aos tempos de c
 Passe uma tampinha por meio de duas tampinhas para avançar, pontuar e superar cada fase. Com apenas alguns 'cliques', você será transportado para os velhos tempos.
 
 🔗Trailer: [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=1D_Y15rjCgo)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IsabeliHubner&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=IsabeliHubner&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabeliHubner&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=IsabeliHubner&icon=0&color=0)](https://visitcount.itsvg.in)
