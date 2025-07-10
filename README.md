@@ -8,7 +8,6 @@ Atualmente estou cursando Tecnologia em Jogos Digitais pela PUC Minas.
 
 # Projetos 
 ## Primeiro Período
-![Imagem do Projeto](https://drive.google.com/uc?export=view&id=1SgRFo2BiGtwrL61jvAuJ7L50aPK8XAqX)
 <img src="https://drive.google.com/uc?export=view&id=1yNfwvGbFAR6RvviS4yXDzrRiATEXdzse" alt="Imagem" width="400"/>
 
 
