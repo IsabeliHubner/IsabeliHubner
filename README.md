@@ -9,6 +9,8 @@ Atualmente estou cursando Tecnologia em Jogos Digitais pela PUC Minas.
 # Projetos 
 ## Primeiro Período
 ![Imagem do Projeto](https://drive.google.com/uc?export=view&id=1SgRFo2BiGtwrL61jvAuJ7L50aPK8XAqX)
+<img src="https://drive.google.com/uc?export=view&id=1yNfwvGbFAR6RvviS4yXDzrRiATEXdzse" alt="Imagem" width="400"/>
+
 
 Batalhas frenéticas no melhor estilo de sobrevivência e luta contra o tempo: Rochito será capaz de aniquilar todos os inimigos dentro das arenas e resgatar as plantas sequestradas? Ou ele perecerá durante sua jornada devido às fortes investidas dos tenebrosos slimes?
 
@@ -27,5 +29,4 @@ Passe uma tampinha por meio de duas tampinhas para avançar, pontuar e superar c
 ![](https://nirzak-streak-stats.vercel.app/?user=IsabeliHubner&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabeliHubner&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=IsabeliHubner&icon=0&color=0)](https://visitcount.itsvg.in)
